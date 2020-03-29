@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5547de4-041a-4840-903d-11b18c5d23cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/simple-neural-network" />
+  </component>
+  <component name="ProjectId" id="1XvcyzsbGu1NVfw9kD7psnLROo3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ds_and_cs_in_python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alewz\Google Drive\repo\deep_learning\tensorflow_examples" />
+      <recent name="C:\Users\alewz\Google Drive\repo\deep_learning\pytorch_examples" />
+      <recent name="C:\Users\alewz\Google Drive\repo\deep_learning\data" />
+      <recent name="C:\Users\alewz\Google Drive\programming\projects_al\first_pytourch" />
+      <recent name="C:\Users\alewz\Google Drive\programming\projects_al\first_pytourch\taxi_regression" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.nlp_tf">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="deep_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="arma_with_tf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\alewz\Google Drive\repo\deep_learning\tensorflow_examples\arma_with_tf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cifar10_tf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_tf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_tf/cifar10_tf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conv_tf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_tf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_tf/conv_tf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nlp_tf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow_examples/nlp_tf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sequence_models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow_examples/sequence_models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="deep_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="deep_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="deep_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.nlp_tf" />
+        <item itemvalue="Python.sequence_models" />
+        <item itemvalue="Python.arma_with_tf" />
+        <item itemvalue="Python.cifar10_tf" />
+        <item itemvalue="Python.conv_tf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5547de4-041a-4840-903d-11b18c5d23cf" name="Default Changelist" comment="" />
+      <created>1581930266428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581930266428</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1585415175527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585415175527" />
+    <state width="1515" height="237" key="GridCell.Tab.0.bottom" timestamp="1585494383044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="237" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585494383044" />
+    <state width="1515" height="226" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585465194259" />
+    <state width="1515" height="237" key="GridCell.Tab.0.center" timestamp="1585494383044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="237" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585494383044" />
+    <state width="1515" height="226" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585465194259" />
+    <state width="1515" height="237" key="GridCell.Tab.0.left" timestamp="1585494383044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="237" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585494383044" />
+    <state width="1515" height="226" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585465194259" />
+    <state width="1515" height="237" key="GridCell.Tab.0.right" timestamp="1585494383044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="237" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585494383044" />
+    <state width="1515" height="226" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585465194259" />
+    <state width="1515" height="237" key="GridCell.Tab.1.bottom" timestamp="1585494383045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="237" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585494383045" />
+    <state width="1899" height="317" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585387230675" />
+    <state width="1515" height="237" key="GridCell.Tab.1.center" timestamp="1585494383045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="237" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585494383045" />
+    <state width="1899" height="317" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585387230674" />
+    <state width="1515" height="237" key="GridCell.Tab.1.left" timestamp="1585494383044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="237" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585494383044" />
+    <state width="1899" height="317" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585387230674" />
+    <state width="1515" height="237" key="GridCell.Tab.1.right" timestamp="1585494383045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="237" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585494383045" />
+    <state width="1899" height="317" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585387230674" />
+    <state x="369" y="110" key="SettingsEditor" timestamp="1585467640124">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="369" y="110" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585467640124" />
+    <state x="2381" y="162" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585385852636" />
+    <state x="421" y="101" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582011515022">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="421" y="101" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1582011515022" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585393410214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585393410214" />
+    <state width="634" height="397" key="javadoc.popup.new" timestamp="1585489070551">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="634" height="397" key="javadoc.popup.new/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585489070551" />
+    <state width="792" height="500" key="javadoc.popup.new/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585386558190" />
+    <state x="2459" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1585384333448">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585121547352" />
+    <state x="2459" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585384333448" />
+  </component>
+</project>
