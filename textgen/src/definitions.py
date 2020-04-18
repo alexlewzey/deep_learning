@@ -40,7 +40,8 @@ class Interim:
 
 class Processed:
     """namespace for processed data file paths"""
-    pass
+    TIME_SERIES_UNI = Dirs.PROCESSED / 'ts_uni.pk'
+
 
 
 class Raw:
@@ -57,6 +58,9 @@ class Models:
 
     CKPT_DIR_TABULAR = Dirs.MODELS / 'ckpts_tabular'
     CKPT_TABULAR = CKPT_DIR_TABULAR / 'ckpt_{epoch:02d}'
+
+    CKPT_DIR_FORECAST = Dirs.MODELS / 'ckpts_forecast'
+    CKPT_FORECAST = CKPT_DIR_FORECAST / 'ckpt_{epoch:02d}'
 
 
 class Charts:
